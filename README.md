@@ -16,7 +16,7 @@ Parte escrita do Word:
 - Descrição do Projeto.docx
 
 Driver de Instalação para o arduino com chip de SMD:
-- river - SMD.rar
+- Driver - SMD.rar
 
 -----------MEMBROS do Grupo--------------
 - Bruno Caires
