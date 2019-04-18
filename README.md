@@ -19,6 +19,6 @@ Driver de Instalação para o arduino com chip de SMD:
 - river - SMD.rar
 
 -----------MEMBROS do Grupo--------------
-  Bruno Caires
-  Jonata Bertoloni Vasconcelos
-  Lucas Oliveira de Souza
+- Bruno Caires
+- Jonata Bertoloni Vasconcelos
+- Lucas Oliveira de Souza
