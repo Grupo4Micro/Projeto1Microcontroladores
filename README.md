@@ -3,6 +3,7 @@ Trabalho de Micro
 
 Bibliotecas:
 - minhasMacros.h
+- minhasIOs.h
 - minhaCom.h
 - minhaAdc.h
 
@@ -11,6 +12,9 @@ Programa Teste:
 
 Modificação por etapas:
 - etapas.ino
+
+Arquivo Principal (Com todas as Macros):
+- Final.ino
 
 Parte escrita do Word:
 - Descrição do Projeto.docx
