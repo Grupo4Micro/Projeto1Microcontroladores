@@ -1,4 +1,10 @@
 # Projeto1Microcontroladores
+
+-----------MEMBROS do Grupo--------------
+- Bruno Caires
+- Jonata Bertoloni Vasconcelos
+- Lucas Oliveira de Souza
+
 Programa Principal:
 - Final.ino
 
@@ -30,7 +36,4 @@ Datasheets Diversos
 
 Fotos Diversas
 
------------MEMBROS do Grupo--------------
-- Bruno Caires
-- Jonata Bertoloni Vasconcelos
-- Lucas Oliveira de Souza
+
