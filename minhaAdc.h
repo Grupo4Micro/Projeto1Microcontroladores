@@ -43,6 +43,58 @@ void escolheCanal(uint8_t canal){
       setBit(ADMUX, MUX2);
       clearBit(ADMUX, MUX3);
       break;
+    case 6:
+      clearBit(ADMUX, MUX0);
+      setBit(ADMUX, MUX1);
+      setBit(ADMUX, MUX2);
+      clearBit(ADMUX, MUX3);
+      break;
+    case 7:
+      setBit(ADMUX, MUX0);
+      setBit(ADMUX, MUX1);
+      setBit(ADMUX, MUX2);
+      clearBit(ADMUX, MUX3);
+      break;
+    case 8:
+      clearBit(ADMUX, MUX0);
+      clearBit(ADMUX, MUX1);
+      clearBit(ADMUX, MUX2);
+      setBit(ADMUX, MUX3);
+    case 9:
+      setBit(ADMUX, MUX0);
+      clearBit(ADMUX, MUX1);
+      clearBit(ADMUX, MUX2);
+      setBit(ADMUX, MUX3);  
+    case 'a':
+      clearBit(ADMUX, MUX0);
+      setBit(ADMUX, MUX1);
+      clearBit(ADMUX, MUX2);
+      setBit(ADMUX, MUX3);     
+    case 'b':
+      setBit(ADMUX, MUX0);
+      setBit(ADMUX, MUX1);
+      clearBit(ADMUX, MUX2);
+      setBit(ADMUX, MUX3);   
+    case 'c':
+      clearBit(ADMUX, MUX0);
+      clearBit(ADMUX, MUX1);
+      setBit(ADMUX, MUX2);
+      setBit(ADMUX, MUX3);
+    case 'd':
+      setBit(ADMUX, MUX0);
+      clearBit(ADMUX, MUX1);
+      setBit(ADMUX, MUX2);
+      setBit(ADMUX, MUX3);
+    case 'e':
+      clearBit(ADMUX, MUX0);
+      setBit(ADMUX, MUX1);
+      setBit(ADMUX, MUX2);
+      setBit(ADMUX, MUX3);
+    case 'f':
+      setBit(ADMUX, MUX0);
+      setBit(ADMUX, MUX1);
+      setBit(ADMUX, MUX2);
+      setBit(ADMUX, MUX3);
     default:
       clearBit(ADMUX, MUX0);
       clearBit(ADMUX, MUX1);
