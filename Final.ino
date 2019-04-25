@@ -104,7 +104,7 @@ void loop() {
       }
     }
 
-    //Modo automático ainda não foi usado
+    //Modo manual ainda não foi usado
     else if (podeGravar == 0 && nvlMax == 0) {
       setBit(PORTD, LED_PIR);
       _delay_ms(100);
