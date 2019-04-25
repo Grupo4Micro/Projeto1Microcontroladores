@@ -1,5 +1,15 @@
 # Projeto1Microcontroladores
-Trabalho de Micro
+Programa Principal:
+- Final.ino
+
+Vídeo:
+- Video de Funcionamento do Projeto.mp4
+
+Explicação do projeto:
+- Video de Funcionamento(Explicação).docx
+
+Parte Escrita:
+- Documentação do Projeto.docx
 
 Bibliotecas:
 - minhasMacros.h
@@ -13,14 +23,12 @@ Programa Teste:
 Modificação por etapas:
 - etapas.ino
 
-Arquivo Principal (Com todas as Macros):
-- Final.ino
-
-Parte escrita do Word:
-- Descrição do Projeto.docx
-
 Driver de Instalação para o arduino com chip de SMD:
 - Driver - SMD.rar
+
+Datasheets Diversos
+
+Fotos Diversas
 
 -----------MEMBROS do Grupo--------------
 - Bruno Caires
